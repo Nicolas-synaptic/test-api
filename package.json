@@ -1,0 +1,29 @@
+{
+  "name": "boufin-uptime",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "tsc": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/synaptic-cl/BOUFIN-uptime.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/synaptic-cl/BOUFIN-uptime/issues"
+  },
+  "homepage": "https://github.com/synaptic-cl/BOUFIN-uptime#readme",
+  "devDependencies": {
+    "@types/express": "^4.17.16",
+    "jest": "^29.4.0",
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "axios": "^1.2.4",
+    "express": "4.18.2"
+  }
+}
